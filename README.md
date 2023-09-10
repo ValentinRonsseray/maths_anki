@@ -1,6 +1,4 @@
-# maths_anki
-
-## Cartes Anki en Maths
+# Deck Maths MPSI
 
 Ce deck Anki couvre l'ensemble du programme de mathématiques en MPSI (2021-2022), et s'avère également utile pour les autres classes de première annéee de CPGE (MP2I, PCSI, PTSI, BCPST...), les premières années de licence (L1 & L2), et pour la préparation des concours de l'enseignement secondaire (CAPES/Agrégation).
 
