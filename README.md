@@ -4,7 +4,7 @@ Ce deck Anki couvre l'ensemble du programme de mathématiques en MPSI (2021-2022
 
 Ce packet comprend théorèmes, propriétés, formules avec souvent des remarques, exemples et démonstrations.
 
-Il est conçu pour une utilisation facile et sans complications : il n'y a pas besoin d'installer de distribution $\LaTeX$, car toutes les formules mathématiques sont rendues grâce à MathJax. En outre, la présentation est attrayante et optimisée pour une consultation aussi bien sur ordinateur que sur appareils mobiles (smartphones et tablettes).
+Il est conçu pour une utilisation facile et sans complications : il n'y a pas besoin d'installer de distribution \(\LaTeX\), car toutes les formules mathématiques sont rendues grâce à MathJax. En outre, la présentation est attrayante et optimisée pour une consultation aussi bien sur ordinateur que sur appareils mobiles (smartphones et tablettes).
 
 Il est à noter que **ces cartes contituent un supplément au cours et non un substitut**. Comprendre et apprendre son cours par coeur comme une poésie est essentiel pour exceller en mathématiques.
 
