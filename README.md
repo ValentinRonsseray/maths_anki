@@ -10,6 +10,8 @@ Il est à noter que **ces cartes contituent un supplément au cours et non un su
 
 Si jamais ces cartes doivent mises à jour pour une quelconque raison (ex: erreurs mathématiques), je vous invite à m'en faire part ou bien sur la page hébergée par [Anki](https://ankiweb.net/shared/decks), ou bien sur cette [page GitHub](https://github.com/Vilnante/maths_anki/). Sur cette dernière, vous pourrez trouver ces cartes actualisées et corrigées.
 
+Je vous fournis des ressources supplémentaires disponibles sur ce [lien](https://github.com/ValentinRonsseray/RessourcesUtilesMathsPhysiquePrepaLicense).
+
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134857429/254636466-2c374792-0e24-401e-a83c-f5fa12f83306.jpg" alt="IMAGE">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134857429/254636382-6665a87b-cf11-4195-b511-f923b0b62bbc.jpg" alt="IMAGE2">
 
